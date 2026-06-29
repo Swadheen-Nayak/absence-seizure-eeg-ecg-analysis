@@ -155,25 +155,7 @@ Post-event period
 
 ---
 
-## Example Screenshots
 
-### EEG Candidate Event Viewer
-
-![EEG Candidate Event Viewer](screenshots/eeg_candidate_event_viewer.png)
-
-### Seizure Band Power Plot
-
-![Seizure Band Power Plot](screenshots/seizure_band_power_plot.png)
-
-### ECG/HRV Summary
-
-![ECG HRV Summary](screenshots/ecg_hrv_summary.png)
-
-### Output Folder Structure
-
-![Output Folder Structure](screenshots/output_folder_structure.png)
-
----
 
 ## Project Outputs
 
