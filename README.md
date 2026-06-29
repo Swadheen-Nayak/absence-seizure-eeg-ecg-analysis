@@ -22,6 +22,24 @@ This repository contains only source code, methodology notes, and anonymized/syn
 - Automatic figure and report output
 - Interactive visual review window
 
+## Repository Structure
+
+src/
+  MATLAB analysis pipeline
+
+docs/
+  Methodology notes
+
+screenshots/
+  Anonymized project screenshots
+
+project_outputs/
+  Sanitized report and summary tables
+
+sample_outputs/
+  Notes about output files
+  
+
 ## Methodology Overview
 
 1. Load EDF recording.
